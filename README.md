@@ -5,6 +5,7 @@ This repository contains the code for the Ischemic Heart Disease Detection proje
 ## Files
 
 - `Ischemic_detection.ipynb`: Jupyter Notebook file containing the Python code for the project.
+- `ischemia.txt`: Text file containing the dataset used for training and testing.
 
 ## Project Overview
 
